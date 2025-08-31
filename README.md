@@ -1,3 +1,5 @@
+Try this here: https://huggingface.co/spaces/umaa123/docquery_q_and_a
+
 ---
 title: RESUME ANALYSER
 emoji: 📉
